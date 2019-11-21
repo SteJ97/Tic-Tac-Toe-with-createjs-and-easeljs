@@ -20,6 +20,7 @@ You will need the following things properly installed on your computer.
 
 ## Running / Development
 
+* `export PATH=$PATH:./node_modules/.bin`
 * `ember serve`
 * Visit your app at [http://localhost:4200](http://localhost:4200).
 * Visit your tests at [http://localhost:4200/tests](http://localhost:4200/tests).
